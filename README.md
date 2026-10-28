@@ -2,38 +2,38 @@
 
 # Gabriel Oliveira
 
-### Computer Engineering Graduate | Full Stack Developer in Progress
+### Engenheiro da Computação | Desenvolvedor Full Stack em formação
 
-Building solutions, exploring technologies, and turning ideas into code. 🚀
+Construindo soluções, explorando tecnologias e transformando ideias em código. 🚀
 
 <a href="https://github.com/GaOlliver18">
-  <img src="https://img.shields.io/badge/GitHub-GaOlliver18-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  <img src="https://img.shields.io/badge/GitHub-GaOlliver18-181717?style=for-the-badge&logo=github" alt="Perfil GitHub"/>
 </a>
 <a href="https://github.com/GaOlliver18?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-2F81F7?style=for-the-badge&logo=github" alt="Explore repositories"/>
+  <img src="https://img.shields.io/badge/Repositórios-Explorar-2F81F7?style=for-the-badge&logo=github" alt="Explorar repositórios"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-I'm a Computer Engineering graduate currently expanding my skills through a Full Stack Development course.
+Sou formado em Engenharia da Computação e atualmente estou aprofundando meus conhecimentos por meio de um curso de Desenvolvimento Full Stack.
 
-I'm passionate about technology, software development, and building practical solutions to real-world problems. My goal is to combine technical knowledge, continuous learning, and hands-on experience to create useful and reliable applications.
+Sou apaixonado por tecnologia, desenvolvimento de software e criação de soluções práticas para problemas do mundo real. Meu objetivo é combinar conhecimento técnico, aprendizado contínuo e experiência prática para desenvolver aplicações úteis e confiáveis.
 
-- 🎓 Degree in Computer Engineering.
-- 💻 Currently studying Full Stack Development.
-- 🚀 Learning by building projects and solving programming challenges.
-- 🧠 Interested in software development, APIs, and application architecture.
-- 🎯 Focused on continuous improvement and professional growth.
+- 🎓 Formado em Engenharia da Computação.
+- 💻 Atualmente estudando Desenvolvimento Full Stack.
+- 🚀 Aprendendo por meio de projetos e desafios de programação.
+- 🧠 Interessado em desenvolvimento de software, APIs e arquitetura de aplicações.
+- 🎯 Focado em aprimoramento contínuo e crescimento profissional.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologias e ferramentas
 
-**Currently exploring**
+**Tecnologias que estou explorando**
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -41,29 +41,29 @@ I'm passionate about technology, software development, and building practical so
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-I'm continuously expanding my toolkit as I progress through my Full Stack Development journey.
+Estou continuamente ampliando meus conhecimentos e aprendendo novas ferramentas à medida que avanço na minha jornada de Desenvolvimento Full Stack.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projetos em destaque
 
-🔹 **Programming Challenges**  
-Hands-on exercises and projects developed to strengthen my programming fundamentals.
+🔹 **Desafios de Programação**  
+Exercícios práticos e projetos desenvolvidos para fortalecer meus fundamentos em programação.
 
-🔹 **Full Stack Development**  
-A growing collection of projects focused on learning, experimentation, and practical application.
+🔹 **Desenvolvimento Full Stack**  
+Uma coleção de projetos em constante evolução, voltados ao aprendizado, à experimentação e à aplicação prática de conhecimentos.
 
-👉 Explore my repositories: [github.com/GaOlliver18](https://github.com/GaOlliver18?tab=repositories)
+👉 Explore meus repositórios: [github.com/GaOlliver18](https://github.com/GaOlliver18?tab=repositories)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GaOlliver18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GaOlliver18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaOlliver18&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaOlliver18&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
 
 </div>
 
@@ -71,8 +71,8 @@ A growing collection of projects focused on learning, experimentation, and pract
 
 <div align="center">
 
-### 💡 Learn. Build. Improve. Repeat.
+### 💡 Aprender. Construir. Evoluir. Repetir.
 
-*Turning knowledge into code, one project at a time.* 🚀
+*Transformando conhecimento em código, um projeto de cada vez.* 🚀
 
 </div>
